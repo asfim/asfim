@@ -1,8 +1,8 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/asfim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miskatul-asfim//) 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/asfim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miskatul-asfim//)  
 ### Hi there 👋, my name is Asfim
 #### web Developer
-![web Developer](https://www.facebook.com/PJ7000?mibextid=ZbWKwL)
+![web Developer](https://asfim.olninebdbazar.com/wp-content/uploads/elementor/thumbs/10102-qzlil9r1cwug2zytqemq6ryzubcdbf87uw58zq1h9c.png)
 
 I AM Web Developer
 
@@ -14,7 +14,7 @@ Skills: laravel / wordpress/ JS / HTML / CSS
 - 💬 Ask me about web development 
 
 
- 
+
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
