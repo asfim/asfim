@@ -1,28 +1,70 @@
+<h1 align="center">Hi 👋, I'm Md. Mishkatul Asfim</h1>
+<h3 align="center">🚀 Software Developer | Laravel & WordPress Specialist | From Dhaka, Bangladesh</h3>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/asfim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/miskatul-asfim//)  
-### Hi there 👋, my name is Asfim
-#### web Developer
-![web Developer](https://asfim.olninebdbazar.com/wp-content/uploads/elementor/thumbs/10102-qzlil9r1cwug2zytqemq6ryzubcdbf87uw58zq1h9c.png)
+---
 
-I AM Web Developer
+### 👨‍💻 About Me  
+As-salamu alaykum,  
+I am **Mishkatul Asfim**, a dedicated **Software Developer** with a BSc in **Computer Science & Engineering (CSE)**.  
+I’m passionate about building innovative web applications, exploring new technologies, and delivering error-free solutions.  
+Hard work, continuous learning, and problem-solving define my professional journey.  
 
-From Dhaka, Bangladesh. I’m a wordpress and laravel developer who is passionate about making error-free websites and web application. I am good at WordPress. I love to talk with you about your unique. .
+---
 
-Skills: laravel / wordpress/ JS / HTML / CSS
+### 🛠️ Skills & Specializations  
+- **Frameworks & CMS:** Laravel | WordPress  
+- **Programming:** PHP | JavaScript | C | C++  
+- **Frontend:** HTML | CSS | Bootstrap  
+- **Other Expertise:** SEO | Basic Networking | Photoshop | Video Editing  
 
-- 🔭 I’m currently working on al jami group of companny 
-- 💬 Ask me about web development 
+---
 
+### 💼 Work Experience  
+- **Software Developer** — Active IT Zone (2025 – Present)  
+- **Web Developer** — Al-Jami Diagnostic Center (2024 – 2025)  
+- **IT Executive** — Confidence IT (2023)  
+- **Web Developer** — Infotecsourz (2020 – 2022)  
 
+---
 
+### 🎓 Education  
+- **BSc in Computer Science & Engineering (CSE)** — Institute of Science Trade & Technology (2022)  
+- **HSC (Science)** — Amena Baki Residential Model School & College (2016)  
+- **SSC (Science)** — Birampur Pilot High School (2014)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/asfim)](https://github.com/ryo-ma/github-profile-trophy)
+### 🚀 Projects  
+- **Laravel E-commerce Platform (2024):**  
+  Full-featured e-commerce site with dashboard, roles, cart, coupons, COD, etc.  
+  🔗 [Project Link](https://olninebdbazar.com)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/asfim)](https://github.com/anuraghazra/github-readme-stats)
+- **WordPress Business Website (2023):**  
+  Responsive site with Elementor customization, SEO optimization, and user-friendly UI.  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/asfim&show_icons=true&count_private=true)  
+---
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/asfim/contributions?format=svg&private=true)  
+### 📜 Certificates & Publications  
+- **Laravel Certificate (2019)**  
+- **COVID-19 Prediction from Chest X-rays** (University-funded project, 2021–2023)  
+- **Publication (2023):** COVID-19 chest X-ray prediction research  
 
+---
+
+### 🌐 Portfolio & Social Links  
+🔗 [Website](https://asfim.olninebdbazar.com)  
+💻 [GitHub](https://github.com/asfim)  
+🔗 [LinkedIn](https://linkedin.com/in/miskatul-asfim)  
+📱 [WhatsApp](https://wa.me/8801777494071)  
+
+---
+
+### 🏆 GitHub Achievements  
+![trophy](https://github-profile-trophy.vercel.app/?username=asfim&theme=onedark)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=asfim&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asfim&layout=compact&theme=radical)  
+
+---
+
+✨ *“Every bug teaches me a new lesson, and every project takes me one step closer to innovation.”* ✨
