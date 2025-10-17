@@ -34,16 +34,6 @@ Hard work, continuous learning, and problem-solving define my professional journ
 
 ---
 
-### 🚀 Projects  
-- **Laravel E-commerce Platform (2024):**  
-  Full-featured e-commerce site with dashboard, roles, cart, coupons, COD, etc.  
-  🔗 [Project Link](https://olninebdbazar.com)  
-
-- **WordPress Business Website (2023):**  
-  Responsive site with Elementor customization, SEO optimization, and user-friendly UI.  
-
----
-
 ### 📜 Certificates & Publications  
 - **Laravel Certificate (2019)**  
 - **COVID-19 Prediction from Chest X-rays** (University-funded project, 2021–2023)  
